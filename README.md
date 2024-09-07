@@ -10,7 +10,7 @@ About me:
 * **Tech Enthusiast:** Passionate about technology and constantly exploring new frameworks and tools, like adopting the latest PHP features or experimenting with asynchronous processing in Golang to improve application performance.
 * **Agile & Kanban:** Experienced in Agile methodologies and Kanban for effective project management and workflow optimization.
 
-### My most used technologies:
+### Core Technologies:
 
 [![Laravel](https://img.shields.io/badge/-Laravel-f55247?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![PHP](https://img.shields.io/badge/-PHP-8993be?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
