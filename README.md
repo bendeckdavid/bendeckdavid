@@ -1,4 +1,4 @@
-# David Gutierrez Bendeck 👨🏽‍💻
+# David Gutierrez 👨🏽‍💻
 ## Backend Developer
 
 I'm a Backend Developer with 8+ years of experience in PHP (Laravel TALL Stack), Golang, and Python. I specialize in building robust and scalable platforms, optimizing complex systems like SAAS platforms, and developing APIs. I've led projects with a focus on technical excellence and modern technology integration, and I'm passionate about contributing to open-source technologies.
