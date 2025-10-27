@@ -5,7 +5,7 @@ I'm a Backend Developer with 8+ years of experience in PHP (Laravel TALL Stack),
 
 About me:
 
-* **26 years old**, continuously learning and adapting to new technologies.
+* **28 years old**, continuously learning and adapting to new technologies.
 * **SOLID Principles & Patterns:** Adhere to SOLID principles with a focus on Dependency Injection for maintainable and scalable code.
 * **Tech Enthusiast:** Passionate about technology and constantly exploring new frameworks and tools, like adopting the latest PHP features or experimenting with asynchronous processing in Golang to improve application performance.
 * **Agile & Kanban:** Experienced in Agile methodologies and Kanban for effective project management and workflow optimization.
